@@ -1,0 +1,4 @@
+# Project exclude paths
+/src/client/dist/
+/src/client/node_modules/
+/src/server/node_modules/
