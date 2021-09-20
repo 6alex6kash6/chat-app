@@ -1,4 +1,6 @@
-"scripts": {
-"start": "node ./src/server/index.js",
-"build": "./src/client/node_modules/.bin/webpack"
+{
+  "scripts": {
+    "start": "node ./src/server/index.js",
+    "build": "./src/client/node_modules/.bin/webpack"
+  }
 }
